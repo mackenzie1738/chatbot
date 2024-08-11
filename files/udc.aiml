@@ -1,0 +1,25 @@
+<aiml version="2.0">
+  <category>
+    <pattern>WHAT JOB SHOULD I CONSIDER</pattern>
+    <template>
+      <srai>ASSESSMENT QUESTIONS</srai>
+    </template>
+  </category>
+
+  <category>
+    <pattern>I LIKE SOFTWARE DEVELOPMENT</pattern>
+    <template>
+      You might enjoy a career as a Software Developer. Software Developers create applications and systems that solve problems or perform tasks on a computer or other devices. Skills required include proficiency in programming languages like Java or Python.
+    </template>
+  </category>
+
+  <category>
+    <pattern>I AM INTERESTED IN DATA SCIENCE</pattern>
+    <template>
+      Consider pursuing a career as a Data Scientist. Data Scientists analyze complex data and help companies make informed decisions. Skills required include knowledge of statistics, machine learning, and proficiency in tools like Python or R.
+    </template>
+  </category>
+
+  <!-- Additional categories for other job types -->
+
+</aiml>
